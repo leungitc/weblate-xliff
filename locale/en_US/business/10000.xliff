@@ -1,0 +1,6 @@
+<trans-unit id="site-description_10000" approved="yes">
+        <source xml:space="preserve">hello</source>
+        <target xml:space="preserve">Hello, world!
+</target>
+    </trans-unit>
+
