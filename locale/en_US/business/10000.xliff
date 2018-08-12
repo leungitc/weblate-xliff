@@ -1,6 +1,13 @@
-<trans-unit id="site-description_10000" approved="yes">
-        <source xml:space="preserve">hello</source>
-        <target xml:space="preserve">Hello, world!
-</target>
-    </trans-unit>
-
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1">
+<file>
+   <body>
+       <trans-unit><source xml:space="preserve" approved="no">Hello, world!
+</source></trans-unit>
+       <trans-unit><source xml:space="preserve" approved="no">Orangutan has %d banana.
+</source></trans-unit>
+       <trans-unit><source xml:space="preserve" state="translated" approved="yes">Try Weblate at &lt;https://demo.weblate.org/&gt;!
+</source></trans-unit>
+       <trans-unit><source state="translated">Thank you for using Weblate.</source></trans-unit>
+   </body>
+</file>
+</xliff>
