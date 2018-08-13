@@ -1,18 +1,29 @@
-<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1">
-<file>
-   <body>
-       <trans-unit id ="1" approved="no">
-       		<source xml:space="preserve">Hello, world!</source>
-       </trans-unit>
-       <trans-unit id ="2" approved="no">
-       		<source xml:space="preserve">Orangutan has %d banana.</source>
-       </trans-unit>
-       <trans-unit id ="3" approved="yes">
-           <source xml:space="preserve">Try Weblate at &lt;https://demo.weblate.org/&gt;!</source>
-       </trans-unit>
-       <trans-unit id ="4" approved="yes">
-           <source>Thank you for using Weblate.</source>
-       </trans-unit>
-   </body>
-</file>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" target-language="en" datatype="plaintext" original="messages" date="2015-07-22T12:53:24Z">
+        <header>
+            <generator>Weblate</generator>
+        </header>
+        <body>
+        <trans-unit id="10" approved="yes">
+            <source xml:space="preserve">hello</source>
+            <target xml:space="preserve">Hello, world!
+</target>
+        </trans-unit>
+        <trans-unit id="11" approved="yes">
+            <source xml:space="preserve">orangutan</source>
+            <target xml:space="preserve">Orangutan has %d banana.
+</target>
+        </trans-unit>
+        <trans-unit id="12" approved="yes">
+            <source xml:space="preserve">try</source>
+            <target xml:space="preserve">Try Weblate at https://demo.weblate.org/!
+</target>
+        </trans-unit>
+        <trans-unit id="13" approved="yes">
+            <source xml:space="preserve">thanks</source>
+            <target xml:space="preserve">Thank you for using Weblate.</target>
+        </trans-unit>
+        </body>
+    </file>
 </xliff>
