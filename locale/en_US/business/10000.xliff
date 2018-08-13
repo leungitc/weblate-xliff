@@ -1,13 +1,18 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.1">
 <file>
    <body>
-       <trans-unit id ="1"><source xml:space="preserve" approved="no">Hello, world!
-</source></trans-unit>
-       <trans-unit id ="2"><source xml:space="preserve" approved="no">Orangutan has %d banana.
-</source></trans-unit id ="3">
-       <trans-unit><source xml:space="preserve" state="translated" approved="yes">Try Weblate at &lt;https://demo.weblate.org/&gt;!
-</source></trans-unit id ="4">
-       <trans-unit><source state="translated">Thank you for using Weblate.</source></trans-unit>
+       <trans-unit id ="1" approved="no">
+       		<source xml:space="preserve">Hello, world!</source>
+       </trans-unit>
+       <trans-unit id ="2" approved="no">
+       		<source xml:space="preserve">Orangutan has %d banana.</source>
+       </trans-unit>
+       <trans-unit id ="3" approved="yes">
+           <source xml:space="preserve">Try Weblate at &lt;https://demo.weblate.org/&gt;!</source>
+       </trans-unit>
+       <trans-unit id ="4" approved="yes">
+           <source>Thank you for using Weblate.</source>
+       </trans-unit>
    </body>
 </file>
 </xliff>
